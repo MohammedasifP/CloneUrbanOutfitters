@@ -23,7 +23,8 @@ Urban Outfitters is a lifestyle related retailer which specializes in selling ap
 </ul>
 
 ### Thanks 😊.
+ ![UrbanOutfitters](https://i.ibb.co/YtzvKnN/Screenshot-856.png) 
 
 ![UrbanOutfitters](/images/img1.png)
 
-<!-- ![UrbanOutfitters](/images/img2.png) -->
+
